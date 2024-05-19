@@ -40,6 +40,8 @@ Here are screenshots demonstrating my usage of Git and GitHub for this assignmen
 
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
+<img width="573" alt="1 Screenshot " src="https://github.com/dominiquette/CFG-Degree/assets/119539825/d953117a-db20-45a3-8e4b-9c4aa0287032">
+
 
 ## 𝐎𝐭𝐡𝐞𝐫 𝐅𝐢𝐥𝐞𝐬
 - [.gitignore](.gitignore): This file ....
