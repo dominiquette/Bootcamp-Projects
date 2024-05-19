@@ -40,6 +40,9 @@ I'm using GitHub for this assignment because it's a powerful tool for version co
 
 Here are screenshots of the process using Git and GitHub for this assignment:
 
+<p align="center">
+  <img width="460" height="300" src="https://github.com/dominiquette/CFG-Degree/assets/119539825/d953117a-db20-45a3-8e4b-9c4aa0287032">
+</p>
 
  <img width="500" alt="1 Screenshot " src="https://github.com/dominiquette/CFG-Degree/assets/119539825/d953117a-db20-45a3-8e4b-9c4aa0287032">
 
