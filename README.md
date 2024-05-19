@@ -7,10 +7,9 @@ Hello! 👋🏽
 I am ***Dominique Pacquette*** an aspiring software engineer and I am pursuing the *CFG Degree* on the *Software Engineer* pathway.
 
 **My Hobbies:** 
-Skipping, gym, cooking, coding
+Skipping 𓀫 | Gym🏋🏽 | Cooking👩🏻‍🍳 | Coding💻
 
-**Tech Skills:**
-Python, VsCode, PyCharm
+
 
 ## 𝐀𝐬𝐬𝐢𝐠𝐧𝐦𝐞𝐧𝐭
 
@@ -71,5 +70,12 @@ Here are screenshots of the process using Git and GitHub for this assignment:
 
 
 ## 𝐎𝐭𝐡𝐞𝐫 𝐅𝐢𝐥𝐞𝐬
-- [.gitignore](.gitignore): This file ....
-- [requirements.txt](requirements.txt): This file .....
+- [.gitignore:](.gitignore) This file is a ***.gitignore*** file
+  
+  - A *'.gitignore'* file, tells Git which files and directories to ignore. This helps preventing irrelevant files that you dont want to be shown, included or being tracked in your Git repository. This helps keep your repository clean and prevents you from accidently committing sensitive files such as passwords or any other irrelevant files.
+
+- [requirements.txt:](requirements.txt) This file is a ***requirements.txt*** file
+
+  - A *'requirements.txt'* file, lists all the Python packages needed for a Python project to run.
+
+
