@@ -72,10 +72,10 @@ Here are screenshots of the process using Git and GitHub for this assignment:
 ## 𝐎𝐭𝐡𝐞𝐫 𝐅𝐢𝐥𝐞𝐬
 - [.gitignore:](.gitignore) This file is a ***.gitignore*** file
   
-  - A *'.gitignore'* file tells Git which files and directories to ignore. This helps preventing irrelevant files that you dont want to be shown, included or being tracked in your Git repository. This helps keep your repository clean and prevents you from accidently committing sensitive files such as passwords or any other irrelevant files.
+  - A *'.gitignore'* file, tells Git which files and directories to ignore. This helps preventing irrelevant files that you dont want to be shown, included or being tracked in your Git repository. This helps keep your repository clean and prevents you from accidently committing sensitive files such as passwords or any other irrelevant files.
 
 - [requirements.txt:](requirements.txt) This file is a ***requirements.txt*** file
 
-  - A *'requirements.txt'* file lists all the Python packages needed for a Python project to run.
+  - A *'requirements.txt'* file, lists all the Python packages needed for a Python project to run.
 
 
