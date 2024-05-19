@@ -1,0 +1,3 @@
+# This is a .gitignorefile
+# A .gitignore file tells Git which files and directories to ignore. This helps preventing irrelevant files that you 
+# dont want to be shown, included or being tracked in your Git repository. This helps keep your repository clean and # prevents you from accidently committing sensitive files such as passwords or any irrelevant files.
