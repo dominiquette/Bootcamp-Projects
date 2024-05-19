@@ -61,6 +61,10 @@ Here are screenshots of the process using Git and GitHub for this assignment:
 
 <img width="600" alt="Screenshot 2024-05-19 at 21 29 24" src="https://github.com/dominiquette/CFG-Degree/assets/119539825/9a608930-deaf-45dd-a0ac-f275452d02ad">
 
+<img width="936" alt="10 Screenshot 2024-05-19 at 21 59 49" src="https://github.com/dominiquette/CFG-Degree/assets/119539825/34716adb-f0dc-405f-a055-066d2820175c">
+
+
+<img width="920" alt="11 Screenshot 2024-05-19 at 22 00 13" src="https://github.com/dominiquette/CFG-Degree/assets/119539825/721669a8-549a-4e4b-a85c-19eb50cb88b1">
 
 
 ## 𝐎𝐭𝐡𝐞𝐫 𝐅𝐢𝐥𝐞𝐬
