@@ -403,6 +403,9 @@ END //
 -- Reset the delimiter back to the default.
 DELIMITER ;
 
+
+-- Scenario: There is a new child being signed up for a membership. Parent will add their child details and their own contact details.
+
 -- Call the stored procedure with a test sample data.
 CALL Add_New_Child_And_Parent('Jessica', 'Alter', 6, 'F', 'Katie', 'Harry', 'katieh@gmail.com', '07432156789');
 
