@@ -1,0 +1,1 @@
+requirements.txt file lists all the Python packages needed for a Python project to run.
