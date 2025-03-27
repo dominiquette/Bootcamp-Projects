@@ -1,13 +1,30 @@
-# 🎓 𝐂𝐅𝐆 𝐃𝐞𝐠𝐫𝐞𝐞 𝐀𝐬𝐬𝐢𝐠𝐧𝐦𝐞𝐧𝐭 🎓 
-
 ## 👩🏽‍💻 🅰🅱🅾🆄🆃 🅼🅴
 
 Hello! 👋🏽  
 
-I am ***Dominique Pacquette*** an aspiring software engineer and I am pursuing the *CFG Degree* on the *Software Engineer* pathway.
+I am ***Dominique*** 
 
 **My Hobbies:** 
 Skipping 𓀫 | Gym🏋🏽 | Cooking👩🏻‍🍳 | Coding💻
+
+Here are some projects I worked on during my bootcamp.
+Feel free to explore the different projects in each folder!
+
+## 🎨 Art-Workshop:
+This project is a database system designed to help my friend's art workshop centre run more smoothly. The centre offers creative classes for children aged 4-11, and this system helps manage workshop schedules, enrolments, feedback, and memberships.
+
+The goal is to organise data efficiently, making it easier to track enrolments, collect feedback, and improve decision-making. With this SQL database, the centre can provide a better experience for young artists and their families.
+
+
+## 🎉Kids Party Booking:
+The Kids Party Booking API is a system designed to streamline the process of booking children's parties. It allows users to check availability, make bookings, and manage reservations through a MySQL database. Built with Flask, the API handles customer details, party themes, and scheduling, making it easier to organise and track bookings efficiently.
+
+
+## ⭐ Star Wars Game ⭐
+This is a Star Wars-themed word game that uses the Star Wars API to fetch character data. The game scrambles a character's name, and players must guess the correct name. They can request clues or give up, and their score is recorded for future reference. Built with Python, the game offers a fun and interactive way to test Star Wars knowledge.
+
+
+
 
 
 
@@ -26,12 +43,7 @@ Another file of my choice, demonstrate:
 - *Merging and deploying to main branch*
 
 
-I'm using GitHub for this assignment because it's a powerful tool for version control and collaboration. It allows me to track changes to my projects, work on new features without affecting the main version, and collaborate with my classmates and instructors.
-
-## 𝐏𝐫𝐞𝐯𝐢𝐨𝐮𝐬 𝐂𝐅𝐆 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬
-- **Project**: [Pokemon Game](https://github.com/dominiquette/Pokemon) ⚡️💥
-  - **Description**: This is a Pokemon battle game that I designed during my time on the CFG Python & Apps course.
-  - **Certificate**: [*Introduction to Python & Apps*](https://drive.google.com/file/d/1n5pSM1kX8v1ngrRxiJRFkehD7Xdyifwb/view)
+I'm using GitHub for this assignment because it's a powerful tool for version control and collaboration. It allows me to track changes to my projects, work on new features without affecting the main version and collaborate with my classmates and instructors.
 
 
 ## 𝐎𝐭𝐡𝐞𝐫 𝐅𝐢𝐥𝐞𝐬
